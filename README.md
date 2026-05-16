@@ -49,7 +49,7 @@ Construo projetos reais para consolidar o aprendizado — do front-end com React
 | [Portal de Viagens](https://github.com/Willian-dallagnol/portal-viagens) | Portal turístico com rotas dinâmicas, i18n PT/EN e favoritos | Next.js 15 · TypeScript · CSS Modules |
 | [React Design System](https://github.com/Willian-dallagnol/react-design-system) | Mini design system com ThemeProvider e componentes tipados | React · TypeScript · Styled Components |
 | [AgroControl API](https://github.com/Willian-dallagnol/agrocontrol-api) | API de gestão agrícola com autenticação JWT e arquitetura em camadas | Go · PostgreSQL · JWT |
-| [Valor Rural](https://github.com/Willian-dallagnol/Valor-Rural-refatorado) | Plataforma de conteúdo rural — projeto com nicho próprio | HTML · SCSS · JavaScript |
+
 
 ---
 
