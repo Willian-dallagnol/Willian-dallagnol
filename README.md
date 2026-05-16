@@ -56,7 +56,7 @@ Construo projetos reais para consolidar o aprendizado — do front-end com React
 ## Formação
 
 - **ADS** — Análise e Desenvolvimento de Sistemas *(em curso)*
-- **Engenharia Agronômica** — Universidade Estadual
+- **Engenharia Agronômica** — PUCPR
 
 ---
 
