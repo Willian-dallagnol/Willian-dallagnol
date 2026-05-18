@@ -2,9 +2,9 @@
 
 # Willian Dall'Agnol
 
-**Eng. Agrônomo → Desenvolvedor Frontend**
+**Desenvolvedor Backend · Go & Node.js**
 
-*Da terra ao código — trazendo a mesma atenção ao detalhe do campo para o desenvolvimento de software*
+*Visão de negócio do agronegócio aplicada à engenharia de software*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/willian-dallagnol)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Willian-dallagnol)
@@ -13,31 +13,32 @@
 
 ---
 
-## Sobre mim
+## Sobre
 
-Engenheiro Agrônomo em transição para o desenvolvimento de software, cursando **Análise e Desenvolvimento de Sistemas** no Paraná. Combino a visão sistêmica da agronomia com o desenvolvimento de interfaces modernas e APIs robustas.
+Desenvolvedor Backend com foco em Go e Node.js, construindo APIs RESTful com autenticação JWT, arquitetura em camadas e boas práticas de engenharia de software.
 
-Construo projetos reais para consolidar o aprendizado — do front-end com React e Next.js até APIs em Go com autenticação JWT.
+Background de 10+ anos no agronegócio como técnico, consultor e gestor — o que me dá capacidade de entender o problema de negócio antes de escrever código. Cursando Análise e Desenvolvimento de Sistemas (Unipar).
 
 ---
 
 ## Stack
 
-**Frontend**
+**Backend**
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
+
+**Frontend & Ferramentas**
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Styled Components](https://img.shields.io/badge/Styled--Components-DB7093?style=flat&logo=styled-components&logoColor=white)
-
-**Backend & Ferramentas**
-
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 
 ---
 
@@ -45,23 +46,22 @@ Construo projetos reais para consolidar o aprendizado — do front-end com React
 
 | Projeto | Descrição | Stack |
 |--------|-----------|-------|
-| [Catálogo de Livros](https://github.com/Willian-dallagnol/catalogo-de-livros) | CRUD completo com API REST, busca, filtro, paginação e testes | React · TypeScript · Tailwind · Jest |
-| [Portal de Viagens](https://github.com/Willian-dallagnol/portal-viagens) | Portal turístico com rotas dinâmicas, i18n PT/EN e favoritos | Next.js 15 · TypeScript · CSS Modules |
-| [React Design System](https://github.com/Willian-dallagnol/react-design-system) | Mini design system com ThemeProvider e componentes tipados | React · TypeScript · Styled Components |
-| [AgroControl API](https://github.com/Willian-dallagnol/agrocontrol-api) | API de gestão agrícola com autenticação JWT e arquitetura em camadas | Go · PostgreSQL · JWT |
-
+| [AgroControl API](https://github.com/Willian-dallagnol/agrocontrol-api) | API REST completa para gestão agrícola — CRUD, JWT, RBAC, Docker, CI/CD | Go · PostgreSQL · Gin · Docker |
+| [Catálogo de Livros](https://github.com/Willian-dallagnol/catalogo-de-livros) | CRUD completo com busca, filtro, paginação e testes automatizados | React · TypeScript · Jest |
+| [React Design System](https://github.com/Willian-dallagnol/react-design-system) | Mini design system com ThemeProvider, variantes e dark mode | React · TypeScript · Styled Components |
+| [Portal de Viagens](https://github.com/Willian-dallagnol/portal-viagens) | Portal turístico com rotas dinâmicas, i18n PT/EN e favoritos | Next.js 15 · TypeScript |
 
 ---
 
 ## Formação
 
-- **ADS** — Análise e Desenvolvimento de Sistemas *(em curso)*
+- **ADS** — Análise e Desenvolvimento de Sistemas, Unipar *(em curso)*
 - **Engenharia Agronômica** — PUCPR
 
 ---
 
 <div align="center">
 
-*"Aprendendo na prática, um commit por vez."*
+*Disponível para oportunidades remotas de backend*
 
 </div>
