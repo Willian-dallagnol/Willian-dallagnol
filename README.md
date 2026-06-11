@@ -83,18 +83,6 @@ Possuo mais de 10 anos de experiência no agronegócio atuando como técnico, co
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Willian-dallagnol&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Willian-dallagnol&layout=compact)
-
-</div>
-
----
-
 <div align="center">
 
 *Disponível para oportunidades de backend*
