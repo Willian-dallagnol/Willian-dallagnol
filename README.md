@@ -51,11 +51,11 @@ Possuo mais de 10 anos de experiência no agronegócio atuando como técnico, co
 ## Projetos em destaque
 
 | Projeto | Descrição | Stack |
-|--------|-----------|-------|
-| [AgroControl API](https://github.com/Willian-dallagnol/agrocontrol-api) | API REST completa para gestão agrícola — CRUD, JWT, RBAC, Docker, CI/CD | Go · PostgreSQL · Gin · Docker |
-| [Catálogo de Livros](https://github.com/Willian-dallagnol/catalogo-de-livros) | CRUD completo com busca, filtro, paginação e testes automatizados | React · TypeScript · Jest |
-| [React Design System](https://github.com/Willian-dallagnol/react-design-system) | Mini design system com ThemeProvider, variantes e dark mode | React · TypeScript · Styled Components |
-| [Portal de Viagens](https://github.com/Willian-dallagnol/portal-viagens) | Portal turístico com rotas dinâmicas, i18n PT/EN e favoritos | Next.js 15 · TypeScript |
+|----------|-----------|----------|
+| [AgroControl API - Java](https://github.com/Willian-dallagnol/AgroControl-api-Java) | API REST para gestão agrícola utilizando arquitetura em camadas, autenticação JWT, documentação Swagger, tratamento global de exceções e persistência relacional | Java · Spring Boot · Spring Security · JPA · PostgreSQL |
+| [AgroControl API - Go](https://github.com/Willian-dallagnol/agrocontrol-api) | API REST com autenticação JWT, RBAC, Docker e pipeline CI/CD | Go · PostgreSQL · Gin · Docker |
+| [Catálogo de Livros](https://github.com/Willian-dallagnol/catalogo-de-livros) | CRUD completo com busca, paginação, filtros e testes automatizados | React · TypeScript · Jest |
+| [Portal de Viagens](https://github.com/Willian-dallagnol/portal-viagens) | Portal turístico com internacionalização, rotas dinâmicas e favoritos | Next.js · TypeScript |
 
 ---
 
