@@ -1,10 +1,10 @@
 <div align="center">
 
-# Willian Dall'Agnol
+# Willian Dall Agnol
 
-**Desenvolvedor Backend · Go & Node.js**
+**Desenvolvedor Backend · Go · Java · Node.js**
 
-*Visão de negócio do agronegócio aplicada à engenharia de software*
+*Transformando conhecimento do agronegócio em soluções de software escaláveis*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/willian-dallagnol)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Willian-dallagnol)
@@ -15,9 +15,13 @@
 
 ## Sobre
 
-Desenvolvedor Backend com foco em Go e Node.js, construindo APIs RESTful com autenticação JWT, arquitetura em camadas e boas práticas de engenharia de software.
+Desenvolvedor Backend focado na construção de APIs RESTful, autenticação e autorização, arquitetura em camadas, bancos relacionais e boas práticas de engenharia de software.
 
-Background de 10+ anos no agronegócio como técnico, consultor e gestor — o que me dá capacidade de entender o problema de negócio antes de escrever código. Cursando Análise e Desenvolvimento de Sistemas (Unipar).
+Atualmente desenvolvendo projetos com Go, Java (Spring Boot) e Node.js, aplicando conceitos como Clean Architecture, Docker, CI/CD, testes automatizados e segurança de aplicações.
+
+Possuo mais de 10 anos de experiência no agronegócio atuando como técnico, consultor e gestor, o que me permite compreender regras de negócio complexas e traduzi-las em soluções tecnológicas.
+
+🎓 Cursando Análise e Desenvolvimento de Sistemas (Unipar).
 
 ---
 
