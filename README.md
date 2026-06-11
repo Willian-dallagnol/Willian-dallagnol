@@ -59,10 +59,39 @@ Possuo mais de 10 anos de experiência no agronegócio atuando como técnico, co
 
 ---
 
+## Competências
+
+- Desenvolvimento de APIs REST
+- Autenticação e autorização (JWT / RBAC)
+- Spring Boot
+- Go (Gin)
+- Node.js (Express)
+- PostgreSQL e MySQL
+- Docker e containers
+- Testes automatizados
+- Git e GitHub Actions
+- Arquitetura em Camadas
+- Clean Architecture
+- Integração contínua (CI/CD)
+
+---
+
 ## Formação
 
 - **ADS** — Análise e Desenvolvimento de Sistemas, Unipar *(em curso)*
 - **Engenharia Agronômica** — PUCPR
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Willian-dallagnol&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Willian-dallagnol&layout=compact)
+
+</div>
 
 ---
 
