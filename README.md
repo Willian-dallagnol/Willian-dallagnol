@@ -62,6 +62,6 @@ Background de 10+ anos no agronegócio como técnico, consultor e gestor — o q
 
 <div align="center">
 
-*Disponível para oportunidades remotas de backend*
+*Disponível para oportunidades de backend*
 
 </div>
